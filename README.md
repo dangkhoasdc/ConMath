@@ -10,7 +10,8 @@ Current Reading:
 Other books
 ===========
 
-Some mathematic books I think they could help `cs` student master the subject:
+Some mathematic books I think they could help `cs` students to master the subject:
+
 - SICP.
 - CLRS: a de facto algorithm book.
-- Algorithms: Sedgewick - I like the book much more than `CLRS`, especially the practical aspects.
+- Algorithms: Sedgewick - I like the book much more than `CLRS`, especially in terms of practice.
